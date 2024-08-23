@@ -192,7 +192,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
-        display_raw_data(df)  # Add the raw data display function here
+        display_raw_data(df) 
 
         time_stats(df)
         station_stats(df)
