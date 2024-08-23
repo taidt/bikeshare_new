@@ -44,6 +44,7 @@ def get_filters():
             print("Invalid input. Please choose from all, monday, tuesday, wednesday, thursday, friday, saturday, or sunday.")
     
     print('-'*40)
+    
     return city, month, day
 
 def load_data(city, month, day):
