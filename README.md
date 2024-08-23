@@ -37,6 +37,7 @@ Data for the first 10 rides in the new_york_city.csv file
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago(opens in a new tab), New York City(opens in a new tab), Washington(opens in a new tab)). These files had more columns and they differed in format in many cases. Some data wrangling(opens in a new tab) has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward.
 
 ### Statistics Computed
+
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 ### #1 Popular times of travel (i.e., occurs most often in the start time)
@@ -66,7 +67,7 @@ To answer these questions using Python, you will need to write a Python script. 
 ### new_york_city.csv
 ### washington.csv
 
-All four of these files are zipped up in the "*all_project_files*" document in the Resources tab in the sidebar on the left side of this page. (You may need to scroll down inside the Resources tab to see the "all_project_files" doc.) You can choose to download and unzip that "all_project_files" doc to access all four project files, and do your project work on your local machine.
+All four of these files are zipped up in the "**all_project_files**" document in the Resources tab in the sidebar on the left side of this page. (You may need to scroll down inside the Resources tab to see the "**all_project_files**" doc.) You can choose to download and unzip that "all_project_files" doc to access all four project files, and do your project work on your local machine.
 
 If you'd prefer, the later Project Workspace page in the classroom here also has the bikeshare.py file and all the city dataset files included in it, and you can do all your work on the project with them there. If you choose this option, you don't need to download the files from the Resources tab.
 
