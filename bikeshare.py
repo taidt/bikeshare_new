@@ -44,6 +44,7 @@ def get_filters():
             print("Invalid input. Please choose from all, monday, tuesday, wednesday, thursday, friday, saturday, or sunday.")
     
     print('-'*40)
+    
     return city, month, day
 
 def load_data(city, month, day):
@@ -199,7 +200,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart the program? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
